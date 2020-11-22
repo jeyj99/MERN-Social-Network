@@ -1,4 +1,4 @@
 module.exports = {
-  dbURI: 'TODO: Replace with your MongoDB connection string',
+  dbURI: 'mongodb+srv://jey:<sindu1234>@db.ymydj.mongodb.net/<db>?retryWrites=true&w=majority' ,            
   jwtKey: 'aRandomString'
 };
